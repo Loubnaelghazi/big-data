@@ -71,7 +71,7 @@ Source of Data: [Kaggle - Twitter Entity Sentiment Analysis](https://www.kaggle.
     ```bash
     cd frontend
     npm install
-    npm start
+    npm run dev 
     ```
 
 ## Usage
