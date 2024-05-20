@@ -57,8 +57,7 @@ Source of Data: [Kaggle - Twitter Entity Sentiment Analysis](https://www.kaggle.
 ## Installation and Setup
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/real-time-twitter-sentiment-analysis.git
-    cd real-time-twitter-sentiment-analysis
+    git clone https://github.com/Loubnaelghazi/big-data
     ```
 
 2. **Configure Apache Flume, Hadoop, Spark, and MongoDB** following their respective installation guides.
