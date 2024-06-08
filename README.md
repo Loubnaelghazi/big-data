@@ -78,14 +78,12 @@ Source of Data: [Kaggle - Twitter Entity Sentiment Analysis](https://www.kaggle.
     git clone https://github.com/Loubnaelghazi/big-data
     ```
 
-2. **Configure Apache Flume, Hadoop, Spark, and MongoDB** following their respective installation guides.
-
-3. **Run the backend**:
+2. **Run the backend**:
     ```bash
     uvicorn app.main:app --reload
     ```
 
-4. **Run the frontend**:
+3. **Run the frontend**:
     ```bash
     cd frontend
     npm install
