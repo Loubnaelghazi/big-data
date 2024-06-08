@@ -90,10 +90,6 @@ Source of Data: [Kaggle - Twitter Entity Sentiment Analysis](https://www.kaggle.
     npm run dev 
     ```
 
-## Usage
-1. **Launch the backend and frontend servers**.
-2. **Access the web application** at `http://localhost:3000`.
-
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request.
 
