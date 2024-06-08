@@ -7,7 +7,7 @@ This project focuses on the development of a sentiment analysis application util
 This project was supervised by Prof. El Yussfi Yasyn.
 
 ## Technologies Used
-- **Apache Flume**: For collecting, aggregating, and moving large amounts of log data.
+- **Apache Kafka**: For collecting, aggregating, and moving large amounts of log data.
 - **Apache Hadoop**: For distributed storage and processing of large data sets.
 - **Apache Spark**: For big data processing with modules for streaming, SQL, machine learning, and graph processing.
 - **MongoDB**: A NoSQL database for storing data in flexible, JSON-like documents.
@@ -15,6 +15,10 @@ This project was supervised by Prof. El Yussfi Yasyn.
 - **React**: A JavaScript library for building user interfaces, particularly single-page applications.
 
 ## Architecture and Implementation
+
+![structure](https://github.com/Loubnaelghazi/big-data/assets/114692135/78ba49cc-cb69-4774-b839-b7eda8689b2c)
+
+
 ### Data Ingestion with Apache Flume
 Apache Flume is configured to collect streaming data from Twitter and transfer it to Hadoop for storage and processing.
 
