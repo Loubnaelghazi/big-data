@@ -8,7 +8,7 @@ export default function Table() {
   const [tweetsPerMinute, setTweetsPerMinute] = useState([]);
   const [tweetCounts, setTweetCounts] = useState([]);
   const [topicCounts, setTopicCounts] = useState({});
-  const pollingInterval = 60000; // Polling interval in milliseconds (1 minute)
+  const pollingInterval = 5000; // Polling interval in milliseconds (1 minute)
 
   const fetchData = async () => {
     try {
